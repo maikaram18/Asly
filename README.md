@@ -25,8 +25,11 @@ o	Developing the high-fidelity UI/UX for the mobile app, featuring dynamic sound
 6.	Final Presentation: Preparing the comprehensive Business Proposal and the digital prototype for the final review.
 ________________________________________
 Roles & Responsibilities:
+
 Team Leader (Mai Karam): Orchestrating brand DNA, managing the "Trust Infiltration" strategy, and final document auditing.
+
 Design Team (Sherry Ashraf): Executing the "Minimalist Tech" aesthetic and ensuring a "Zero-Friction" UI.   
+
 Marketing/PR (Marwa Mubarak, Joyce Morris, Mai Karam): conducting end-to-end market and technical research and Executing the "Micro-Expert Infiltration".
 ________________________________________
 •	KPIs (Key Performance Indicators): 
