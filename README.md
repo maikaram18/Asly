@@ -24,7 +24,7 @@ o	Developing the high-fidelity UI/UX for the mobile app, featuring dynamic sound
 5.	Review & Finalization: Stress-testing the AI acoustic algorithms and finalizing the "Market Penetration Strategy.
 6.	Final Presentation: Preparing the comprehensive Business Proposal and the digital prototype for the final review.
 ________________________________________
-Roles & Responsibilities
+Roles & Responsibilities:
 Team Leader (Mai Karam): Orchestrating brand DNA, managing the "Trust Infiltration" strategy, and final document auditing.
 Design Team (Sherry Ashraf): Executing the "Minimalist Tech" aesthetic and ensuring a "Zero-Friction" UI.   
 Marketing/PR (Marwa Mubarak, Joyce Morris, Mai Karam): conducting end-to-end market and technical research and Executing the "Micro-Expert Infiltration".
@@ -36,7 +36,7 @@ System Integrity: 100% of generated certificates must be successfully anchored t
 Market Impact: Reducing the reported "Hidden Faults" rate among users using Asly-certified listings.
 ________________________________________
 Instructor:
-*Mr. Youssef Ayman
+Mr. Youssef Ayman
 ________________________________________
 Project Files
 You can find the full project files here:
