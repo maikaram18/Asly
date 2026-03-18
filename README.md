@@ -61,8 +61,6 @@ https://drive.google.com/file/d/1eHzO_q-O25egfuLb9dxHgMPsYoz5vY_o/view?usp=shari
 
 https://drive.google.com/file/d/1NE9J66NdV00rPO8dq40__8JyQvU2VYQS/view?usp=sharing
 
-https://drive.google.com/file/d/1zGl2ojNmEB7aQYDXY63IuSSRGeCAFx17/view?usp=drive_link
-
 https://drive.google.com/file/d/1EyvQbGLCVkmvJO1L2_rxCsUTac6e2Vxe/view?usp=drive_link
 
 https://drive.google.com/file/d/1GBQzMjP_f_QHmoW2aX1BOcUCEMNk130l/view?usp=drive_link
