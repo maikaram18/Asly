@@ -10,10 +10,8 @@ ________________________________________
 Team Members (pentaRae)
 
 Mai Karam - 
-Marwa Mubarak - 
-Joyce Morris - 
-Sherry Ashraf - 
-Sherine Saeed
+Marwa Mubarak -
+Joyce Morris 
 ________________________________________
 Work Plan
 
@@ -36,9 +34,9 @@ Roles & Responsibilities
 
 Team Leader (Mai Karam): Orchestrating brand DNA, managing the "Trust Infiltration" strategy, and final document auditing.
 
-Design Team (Sherry Ashraf): Executing the "Minimalist Tech" aesthetic and ensuring a "Zero-Friction" UI.   
 
-Marketing/PR (Marwa Mubarak, Joyce Morris, Mai Karam): conducting end-to-end market and technical research and Executing the "Micro-Expert Infiltration".
+
+Marketing (Mai Karam,Marwa Mubarak, Joyce Morris): conducting end-to-end market and technical research and Executing the "Micro-Expert Infiltration".
 ________________________________________
 •	KPIs (Key Performance Indicators)
 
